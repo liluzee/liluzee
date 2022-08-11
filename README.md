@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @liluzee and I'm currently an electronics and communications engineering student. I'm currently in my final year of college.
+- 👋 Hi, I’m @liluzee and I'm currently an electronics and communications engineering student. 
+- 🎓 I'm currently in my final year of college at PEC, Chandigarh.
 - 👀 I’m interested in building cool apps and websites.
 - 🌱 I’m currently learning React.js and Redux.
 - 💞️ I’m looking to collaborate on literally anything that interests me.
